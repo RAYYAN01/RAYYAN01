@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rayyan%20Zaniullabidin&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Frontend%20Developer&descAlignY=58&descSize=20&descColor=ffffff" width="100%" alt="header" />
-
-<img src="./assets/profile.png" width="150" style="border-radius:50%;border:3px solid #39FF14" alt="Rayyan" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rayyan%20Zainullabidin&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Frontend%20Developer&descAlignY=58&descSize=20&descColor=ffffff" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+agents+%26+LLM+tooling;Shipping+React+%2F+Next.js+frontends;%40+Naaz+AI+Labs&font=Fira+Code&center=true&width=520&height=45&duration=3000&pause=1000&color=39FF14&vCenter=true&size=20" alt="Typing SVG" />
 
